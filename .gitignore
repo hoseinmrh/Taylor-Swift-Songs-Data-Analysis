@@ -11,3 +11,4 @@
 *.app
 .snapshots/*
 taylor_swift_spotify.csv
+.ipynb_checkpoints/
